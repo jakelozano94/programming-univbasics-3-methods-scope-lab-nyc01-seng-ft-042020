@@ -14,7 +14,7 @@ def link
   puts status
 end
 
-def all_phases
+def all_phrases
  puts mario
  puts toadstool
 puts link
