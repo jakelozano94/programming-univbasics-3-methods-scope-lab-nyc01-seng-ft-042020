@@ -13,5 +13,5 @@ def link
   puts status
 end
 def all_phases(meth)
- meth
+ puts meth
  end
