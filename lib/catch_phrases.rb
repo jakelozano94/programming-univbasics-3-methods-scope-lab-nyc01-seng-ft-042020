@@ -16,7 +16,7 @@ end
 
 def all_phases
  puts mario
- puts mario 
-puts toadstool 
+ puts toadstool
+puts link
 end
  
